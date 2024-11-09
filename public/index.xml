@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Aayush</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Aayush</description>
     <generator>Hugo -- 0.137.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Nov 2024 12:33:03 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Capitalism is a Driving Force of Climate Change</title>
-      <link>http://localhost:1313/posts/capitalism-climate/</link>
+      <link>https://example.org/posts/capitalism-climate/</link>
       <pubDate>Sat, 09 Nov 2024 12:33:03 +0530</pubDate>
-      <guid>http://localhost:1313/posts/capitalism-climate/</guid>
+      <guid>https://example.org/posts/capitalism-climate/</guid>
       <description>&lt;p&gt;&lt;em&gt;The Unseen Consequences of Capitalism on the Environment and Society&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;As the world grapples with the challenges of climate change, economic growth, and social inequality, it is essential to examine the underlying drivers of these issues. The pursuit of economic growth and profit has led to a paradoxical situation where the very systems designed to benefit humanity are instead contributing to its demise.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The Cost of Progress&lt;/strong&gt;&lt;/p&gt;
@@ -20,34 +20,34 @@
     </item>
     <item>
       <title>Post Truth</title>
-      <link>http://localhost:1313/posts/posttruth/</link>
+      <link>https://example.org/posts/posttruth/</link>
       <pubDate>Wed, 06 Nov 2024 13:06:44 +0530</pubDate>
-      <guid>http://localhost:1313/posts/posttruth/</guid>
+      <guid>https://example.org/posts/posttruth/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The Post-Truth Era: Can We Trust the Truth in a World of Fake News?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In the 2014 midterm elections, a Stanford University study revealed that fabricated stories supporting Donald Trump had been shared approximately 30 million times in the lead-up to the election. This staggering number is a testament to the power of social media in spreading misinformation. Fast-forward to the present, and it&amp;rsquo;s safe to assume that the number of false stories shared about the president&amp;rsquo;s policies and character would be significantly higher, potentially exceeding 3 billion.&lt;/p&gt;</description>
     </item>
     <item>
       <title>World of Linux</title>
-      <link>http://localhost:1313/posts/linux/</link>
+      <link>https://example.org/posts/linux/</link>
       <pubDate>Sat, 02 Nov 2024 13:45:35 +0530</pubDate>
-      <guid>http://localhost:1313/posts/linux/</guid>
+      <guid>https://example.org/posts/linux/</guid>
       <description>&lt;h1 id=&#34;exploring-the-world-of-linux-a-beginners-guide&#34;&gt;Exploring the World of Linux: A Beginner&amp;rsquo;s Guide&lt;/h1&gt;
 &lt;p&gt;Introduction: In today&amp;rsquo;s digital age, operating systems play a crucial role in our daily lives, facilitating our interactions with computers and devices. Among the plethora of operating systems available, Linux stands out as a powerful and versatile option that has garnered a dedicated following worldwide. In this blog post, we&amp;rsquo;ll take a journey into the fascinating world of Linux, exploring its origins, features, benefits, and how you can get started with this open-source operating system.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nobody Reads Your Blog</title>
-      <link>http://localhost:1313/posts/nobody/</link>
+      <link>https://example.org/posts/nobody/</link>
       <pubDate>Fri, 01 Nov 2024 12:56:51 +0530</pubDate>
-      <guid>http://localhost:1313/posts/nobody/</guid>
+      <guid>https://example.org/posts/nobody/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;code&gt;Even if no one reads your blog, the act of writing it is clarifying, motivating and (eventually) fun. — Seth Godin&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I tell myself that I blog for my own sake. I write to express, to put thoughts out there for my own reflection. I publish essays because it helps me tame my thinking. And yet, that tiny toast button somehow becomes a bigger deal than it actually is.&lt;/p&gt;
 &lt;p&gt;I’d be lying if I say I don’t check the stats. I’m a numbers guy, drawn to tracking things: views and upvotes &amp;hellip;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Daily Projects</title>
-      <link>http://localhost:1313/posts/daily/</link>
+      <link>https://example.org/posts/daily/</link>
       <pubDate>Sun, 20 Oct 2024 13:04:23 +0530</pubDate>
-      <guid>http://localhost:1313/posts/daily/</guid>
+      <guid>https://example.org/posts/daily/</guid>
       <description>&lt;p&gt;i follow an artist on Tumblr who’s been doing a daily drawing since a long time.&lt;/p&gt;
 &lt;p&gt;they’re mostly self portraits.&lt;/p&gt;
 &lt;p&gt;his work is expressive, somewhat childlike, and genuine.&lt;/p&gt;
@@ -59,9 +59,9 @@
     </item>
     <item>
       <title>Why GDP is not a good measure of Human WellBeing</title>
-      <link>http://localhost:1313/posts/gdp2/</link>
+      <link>https://example.org/posts/gdp2/</link>
       <pubDate>Tue, 15 Oct 2024 12:27:14 +0530</pubDate>
-      <guid>http://localhost:1313/posts/gdp2/</guid>
+      <guid>https://example.org/posts/gdp2/</guid>
       <description>&lt;h3 id=&#34;why-gdp-is-not-a-good-measuring-tool&#34;&gt;Why GDP is Not a Good Measuring Tool&lt;/h3&gt;
 &lt;p&gt;Gross Domestic Product (GDP) is a widely used measure of a country&amp;rsquo;s economic performance. However, it has several limitations that make it a flawed metric.&lt;/p&gt;
 &lt;h3 id=&#34;what-gdp-measures&#34;&gt;What GDP Measures&lt;/h3&gt;
@@ -76,25 +76,25 @@ Imports&lt;/p&gt;
     </item>
     <item>
       <title>Nourish Your Body, Nourish Your Soul: A Guide to Good Health Diet</title>
-      <link>http://localhost:1313/posts/nourish/</link>
+      <link>https://example.org/posts/nourish/</link>
       <pubDate>Mon, 30 Sep 2024 15:26:51 +0530</pubDate>
-      <guid>http://localhost:1313/posts/nourish/</guid>
+      <guid>https://example.org/posts/nourish/</guid>
       <description>&lt;p&gt;Introduction: In today&amp;rsquo;s hectic world, maintaining a healthy diet is essential for overall well-being and vitality. A good health diet not only fuels our bodies with essential nutrients but also nurtures our minds and spirits. In this blog post, we&amp;rsquo;ll explore the foundations of a balanced diet, uncover the benefits of wholesome foods, and provide practical tips for incorporating nutritious meals into your daily routine.&lt;/p&gt;
 &lt;p&gt;Understanding the Importance of Nutrition: Nutrition plays a pivotal role in promoting optimal health and preventing chronic diseases. A well-rounded diet provides our bodies with the essential nutrients, vitamins, minerals, and antioxidants needed to support vital functions, boost immunity, and maintain energy levels. By prioritizing nutrient-dense foods, we can enhance our physical health, mental clarity, and emotional well-being.&lt;/p&gt;</description>
     </item>
     <item>
       <title>GDP Is the Wrong Tool for Measuring What Matters</title>
-      <link>http://localhost:1313/posts/gdp/</link>
+      <link>https://example.org/posts/gdp/</link>
       <pubDate>Sun, 29 Sep 2024 11:17:39 +0530</pubDate>
-      <guid>http://localhost:1313/posts/gdp/</guid>
+      <guid>https://example.org/posts/gdp/</guid>
       <description>&lt;p&gt;&lt;em&gt;It’s time to replace gross domestic product with real metrics of well-being and sustainability&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Most countries around the world have come to use gross domestic product, or GDP, as the core metric for prosperity. The GDP measures market output: the monetary value of all the goods and services produced in an economy during a given period, usually a year. Governments can fail if this number falls—and so, not surprisingly, governments strive to make it climb. But striving to grow GDP is not the same as ensuring the well-being of a society.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://example.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://example.org/about/</guid>
       <description>&lt;p&gt;Hi, and my name is on top of the site. I am a 24 old guy from India, who loves computers and softwares. I&amp;rsquo;m a software developer and graphic designer.&lt;/p&gt;
 &lt;p&gt;But most importantly &lt;code&gt;I am a man of culture.&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;This place is home for all my psychological dysfunctioning.&lt;/em&gt;&lt;/p&gt;
