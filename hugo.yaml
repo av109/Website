@@ -1,0 +1,51 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Aayush
+theme: PaperMod
+
+
+
+params:
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowToc: false
+  hideFooter: true
+
+  homeInfoParams:
+    Title: Welcome to my corner of Internet
+    Content: “What I wouldn't give to be normal. To live in that bubble. Reality of the naive.”
+  
+  socialIcons: 
+    - name: 'github'
+      url: "https://github.com/"
+
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: search
+      name: Search 
+      url: /search/
+      weight: 40
+
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+
