@@ -9,6 +9,10 @@ I am by far the most privacy oriented of my friends, and whenever they see me us
 ## Focusing on "hiding" is the wrong attitude
 First of all, "Privacy" is just the right to control your own data and your public image. 
 
+
+“Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.” ― Edward Snowden
+
+
 Privacy isn't about hiding something. It's about being able to control how we present ourselves to the world. It is the right to keep things to yourself. It's about personal dignity.
 
 Your data may be used to make decisions about you, without you even knowing. Apply for a job and don't get it ? Get declined for insurance or a car loan or credit card or an apartment rental, or charged a high rate ? The decision may have been based on your data, maybe even mistaken data about you. And you'll never know it.
@@ -43,6 +47,9 @@ Some responses to the "I've got nothing to hide; you have something to hide only
 
 
 I can extend this a lot but I'll later explain why privacy matters in next article. 
+
+To read more please refer to Shoshana Zuboff's book, especially the chapter where she describes how risk profiles are compiled using datas mined from your phone, your social media accounts, your browsing habits and then sold to employers, HR, banks, homeowners...
+
 
 
 
