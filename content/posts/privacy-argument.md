@@ -17,13 +17,15 @@ Criminals are looking to rip you off, and many ways of doing that involve using 
 Also, your lack of privacy may affect others around you. If someone can track your activities (or read your email), they will know a lot about the activities of other people you live with or associate with. And those people will have no choice about it.
 
 From [the article](https://www.politico.eu/article/privacy-is-power-opinion-data-gdpr/)
-`Privacy was once misconstrued as being about hiding and secrecy. Now it's understood to be something much more pressing: power dynamics between the individual, the state and the market. As recent scandals have illustrated so vividly, privacy is also about the autonomy, dignity, and self-determination of people - and it's a necessary precondition for democracy.  
+
+`Privacy was once misconstrued as being about hiding and secrecy. Now it's understood to be something much more pressing: power dynamics between the individual, the state and the market. As recent scandals have illustrated so vividly, privacy is also about the autonomy, dignity, and self-determination of people - and it's a necessary precondition for democracy.`
   
 
 From [Keith axline article](https://re-public.io/blog/privacy-is-just-the-first-step-the-goal-is-data-ownership/)
-`"Privacy Is Just the First Step, the Goal Is Data Ownership" 
 
-`"All human beings have three lives: public, private, and secret." -- Gabriel Garcia Marquez 
+`"Privacy Is Just the First Step, the Goal Is Data Ownership"` 
+
+`"All human beings have three lives: public, private, and secret." -- Gabriel Garcia Marquez`
 
 Suppose you do some searches about cancer, or diabetes, or alcoholism. Do you want that info popping up the next time you apply for health insurance or car insurance or a job ? Even if you don't have cancer, diabetes, or an alcohol problem ? Easiest for the company to just deny you the insurance or the job, rather than investigate or take a risk.
 
