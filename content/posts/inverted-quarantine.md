@@ -3,7 +3,7 @@ date = '2024-11-27T11:38:33+05:30'
 title = 'Inverted Quarantine'
 +++
 
-I recently heard this term when I was reading about how people managing their in polluted environment like Delhi where AQI crossed 1000. This term immediately caught my attention, as this is very relevant in current scenario. Basically in short, it describes how affluent classes are separating themself from pollution impact and creating safe space at home.
+I recently heard this term when I was reading about how people managing their health in polluted environment like Delhi where AQI crossed 1000. This term immediately caught my attention, as this is very relevant in current scenario. Basically in short, it describes how affluent classes are separating themself from pollution impact and creating safe space at home.
 
 Traditionally, quarantine involves isolating a source of harm to protect the public. In contrast, inverted quarantine involves creating personal safe spaces within polluted environments. With air purifiers, bottled water and organic food, affluent individuals build a ‘commodity bubble’ to shield themselves from environmental hazards.
 
