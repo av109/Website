@@ -1,6 +1,7 @@
 +++
 date = '2024-11-02T13:45:35+05:30'
 title = 'World of Linux'
+draft = true
 +++
 
 # Exploring the World of Linux: A Beginner's Guide

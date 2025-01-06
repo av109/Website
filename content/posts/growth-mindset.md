@@ -1,6 +1,7 @@
 +++
 date = '2024-12-09T12:36:58+05:30'
 title = 'Growth Mindset'
+draft = true
 +++
 
 About a year back I started learning coding. Despite being in my twenties, which is quiet young. still I get the feeling when looking at the extremely talented teenage coders from China, that "am I really too old to learn coding ?". I struggled with this feeling for fairly long time but after reading few books on brain and psychology I learned the way of perceiving things. And from there only I learn the term "Growth Mindset.". So take it like this there are two types of mindset one is FIXED and other is Growth. 

@@ -1,6 +1,7 @@
 +++
 date = '2024-10-20T13:04:23+05:30'
 title = 'Daily Projects'
+draft = true
 +++
 
 i follow an artist on Tumblr who’s been doing a daily drawing since a long time.

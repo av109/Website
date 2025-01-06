@@ -1,7 +1,13 @@
-+++
-date = '2025-01-06T11:55:44+05:30'
-title = 'Problems with Reels and Social Media Propaganda'
-+++
+---
+title: "Problems with Reels and Instagram Propaganda"
+date: 2025-01-06T12:00:03+05:30
+ShowReadingTime: false
+ShowBreadCrumbs: false
+ShowPostNavLinks: false
+ShowWordCount: true
+draft: false
+
+---
 
 Let me share something deeply troubling I've seen on Instagram recently. This app is very popular among the Indian youth, and many people use it religiously, like every day from dusk till dawn.
 
@@ -9,9 +15,9 @@ What's most concerning is the content being churned out by creators, especially 
 
 But here's what really keeps me up at night: the rise of meme pages as *modern-day propaganda/mass propaganda machines*. These pages are often run by kids or a team of losers who don't know shit about politics, opinions, ideologies, neuroscience, human psychology, comedy, finances, etc. They don't know any of these fields but still comment on everything they see. and people have elected the meme pages on Instagram as **thought leaders**. Somehow, they've emerged as thought leaders for millions. Think about that for a second. People with no real understanding of complex issues are shaping public opinion on a massive scale.
 
-The situation is far worse than most realize. Now with this power, they decide what to spread and what lie to peddle; now they guide the mass thought. Only brainwashing is going on there; **they teach people what to think**. These meme pages now outnumber regular users on Instagram, and many are secretly ==funded by government entities, gambling companies, or celebrities pushing their agendas==. They are the mass factories of what to think and propaganda spreading. 
+The situation is far worse than most realize. Now with this power, they decide what to spread and what lie to peddle; now they guide the mass thought. Only brainwashing is going on there; **they teach people what to think**. These meme pages now outnumber regular users on Instagram, and many are secretly funded by government entities, gambling companies, or celebrities pushing their agendas. They are the mass factories of what to think and propaganda spreading. 
 
-They're not creating content to inform or entertain—**they're programming how people think**. ==It's a sophisticated form of mass manipulation, wrapped in the guise of harmless entertainment==.
+They're not creating content to inform or entertain—**they're programming how people think**. It's a sophisticated form of mass manipulation, wrapped in the guise of harmless entertainment.
 
 These aren't just random posts we're scrolling through anymore. **They're carefully crafted pieces of propaganda, designed to shape perspectives and control narratives.** The platform has essentially become a massive thought factory, churning out pre-packaged opinions for millions of unsuspecting young minds.
 

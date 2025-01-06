@@ -1,6 +1,7 @@
 +++
 date = '2024-10-15T12:27:14+05:30'
 title = 'Why GDP is not a good measure of Human WellBeing'
+draft = true
 +++
 
 ### Why GDP is Not a Good Measuring Tool

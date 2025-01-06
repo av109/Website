@@ -1,6 +1,7 @@
 +++
 date = '2024-11-28T00:56:17+05:30'
 title = 'Behind the Scenes in Politics'
+draft = true
 +++
 
 I am citing a passage from Rajdeep Sardesai's book, '2024: The Election That Surprised India,' and do not have any personal involvement with the content. I found this content thought-provoking and believe it offers some intriguing background information related to behind-the-scenes dynamics or we can say it provides nuanced view of how things might operate beyond public perception.

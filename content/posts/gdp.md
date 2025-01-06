@@ -1,6 +1,7 @@
 +++
 date = '2024-09-29T11:17:39+05:30'
 title = 'GDP Is the Wrong Tool for Measuring What Matters'
+draft = true
 +++
 
 *It’s time to replace gross domestic product with real metrics of well-being and sustainability*
