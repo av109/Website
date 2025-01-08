@@ -1,7 +1,6 @@
 +++
 date = '2025-01-08T12:01:52+05:30'
 title = 'Ideology of Gandhi's assassin is now mainstream'
-draft = false
 +++
 
 The ideology of Gandhi’s assassin has become mainstream in the country, while Gandhi himself has been demonized for promoting Hindu-Muslim unity.
