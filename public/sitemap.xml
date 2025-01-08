@@ -2,62 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:51330/</loc>
-    <lastmod>2025-01-06T11:55:44+05:30</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-08T18:01:13+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51330/posts/</loc>
-    <lastmod>2025-01-06T11:55:44+05:30</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-01-08T18:01:13+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51330/posts/reels/</loc>
-    <lastmod>2025-01-06T11:55:44+05:30</lastmod>
+    <loc>http://localhost:1313/posts/gandhi1/</loc>
+    <lastmod>2025-01-08T18:01:13+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51330/posts/growth-mindset/</loc>
-    <lastmod>2024-12-09T12:36:58+05:30</lastmod>
+    <loc>http://localhost:1313/posts/celebs/</loc>
+    <lastmod>2025-01-07T12:53:13+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51330/posts/behind-the-scenes-in-politics/</loc>
-    <lastmod>2024-11-28T00:56:17+05:30</lastmod>
+    <loc>http://localhost:1313/posts/reels/</loc>
+    <lastmod>2025-01-06T12:00:03+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51330/posts/inverted-quarantine/</loc>
+    <loc>http://localhost:1313/posts/inverted-quarantine/</loc>
     <lastmod>2024-11-27T11:38:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51330/posts/capitalism-vs-communism/</loc>
+    <loc>http://localhost:1313/posts/capitalism-vs-communism/</loc>
     <lastmod>2024-11-14T00:11:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51330/posts/privacy-argument/</loc>
+    <loc>http://localhost:1313/posts/privacy-argument/</loc>
     <lastmod>2024-11-13T17:17:46+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51330/posts/capitalism-climate/</loc>
+    <loc>http://localhost:1313/posts/capitalism-climate/</loc>
     <lastmod>2024-11-09T12:33:03+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51330/posts/posttruth/</loc>
-    <lastmod>2024-11-06T13:06:44+05:30</lastmod>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:51330/posts/linux/</loc>
-    <lastmod>2024-11-02T13:45:35+05:30</lastmod>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>http://localhost:51330/posts/nobody/</loc>
-    <lastmod>2024-11-01T12:56:51+05:30</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:51330/posts/daily/</loc>
-    <lastmod>2024-10-20T13:04:23+05:30</lastmod>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>http://localhost:51330/posts/gdp2/</loc>
-    <lastmod>2024-10-15T12:27:14+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:51330/posts/nourish/</loc>
-    <lastmod>2024-09-30T15:26:51+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:51330/posts/gdp/</loc>
-    <lastmod>2024-09-29T11:17:39+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:51330/about/</loc>
-  </url><url>
-    <loc>http://localhost:51330/archives/</loc>
-  </url><url>
-    <loc>http://localhost:51330/categories/</loc>
-  </url><url>
-    <loc>http://localhost:51330/search/</loc>
-  </url><url>
-    <loc>http://localhost:51330/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
