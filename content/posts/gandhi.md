@@ -1,7 +1,9 @@
 +++
 date = '2025-01-08T12:01:52+05:30'
 title = 'Ideology of Gandhi's assassin is now mainstream'
+draft = false
 +++
+
 The ideology of Gandhi’s assassin has become mainstream in the country, while Gandhi himself has been demonized for promoting Hindu-Muslim unity.
 
 Why do many Indians hate Gandhi? It’s not that he is universally hated; many love and idolize him. However, After all one of them killed him, pumping bullets into a frail old man of peace merely to settle a political argument. Some acknowledge his flaws yet still recognize his greatness.
